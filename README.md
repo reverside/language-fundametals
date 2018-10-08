@@ -7,7 +7,7 @@ Objective of this level is to ensure that you have good knowledge & understandin
 * Access Control & Namespacing
 * Interface & Abstract Class
 * Exception Handling
-* Apply OOPS Concepts
+* OOPS Concepts
 * I/O Handling
 * Thread & Synchronization
 
