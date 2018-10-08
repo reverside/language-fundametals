@@ -1,5 +1,5 @@
 ### Language Fundamentals
-Objective of this level is to ensure that you have good knowledge & understanding over the followng fundamental concepts with your favourite object orinted programming language.
+Objective of this level is to ensure that you have good knowledge & understanding over the followng concepts with your favourite object orinted programming language.
 
 * Class & Object
 * Object Life Cycle
