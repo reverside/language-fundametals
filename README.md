@@ -1,6 +1,4 @@
 ### Language Fundamentals
-
-#### Objective :
 Objective of this level is to ensure that you have good knowledge & understanding over the followng fundamental concepts with your favourite OOPS language.
 
 * Class & Object
