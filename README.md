@@ -8,6 +8,7 @@ Objective of this level is to ensure that you have good knowledge & understandin
 * Interface & Abstract Class
 * Exception Handling
 * Apply OOPS Concepts
+* I/O Handling
 * Thread & Synchronization
 
 #### NB :
