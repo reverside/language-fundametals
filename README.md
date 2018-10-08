@@ -11,7 +11,7 @@ Objective of this level is to ensure that you have good knowledge & understandin
 * Thread & Synchronization
 
 #### NB :
-Please choose your language above from the branch option or click below to start.
+Please choose your language above from the branch dropdown above to start with your language.
 
 
 
